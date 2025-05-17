@@ -10,7 +10,7 @@ body {
     padding-top:10px;
     left: 0;
     margin: 0;
-    background-color: #ffffff;
+    background-color: #e3e3e3;
 }
 
 
@@ -64,7 +64,7 @@ body {
     padding: 10px 20px; /* Some padding */
     cursor: pointer; /* Pointer/hand icon */
     float: left; /* Float the buttons side by side */
-    font-size: 3em;
+    font-size: 2em;
     margin:10px 10px 10px 10px;
     
   }
