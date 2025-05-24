@@ -4,6 +4,11 @@ img{
     height: auto;
 }
 
+.person-group {
+  width: 10%;
+  height: auto;
+}
+
 body {
     position: relative;
     top: 0;
@@ -55,6 +60,21 @@ body {
     .sidenav a {font-size: 20px;}
   }
 
+
+
+.listbtn-group {
+    background-color: #19c68a; /* Green background */
+    border: 3px solid rgb(1, 67, 1); /* Green border */
+    color: rgb(0, 0, 0); /* White text */
+    padding: 15px 15px ; /* Some padding */
+    cursor: pointer; /* Pointer/hand icon */
+    float: left;  /*Float the buttons side by side */
+    font-size: 2em;
+    margin:15px 15px 15px 15px;
+    
+  }
+  
+  
 
 
 .btn-group button {
